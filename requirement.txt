@@ -3,3 +3,6 @@ django-allauth
 djangorestframework-simplejwt
 psycopg2-binary
 django-cors-headers
+Pillow
+stripe
+python-decouple
