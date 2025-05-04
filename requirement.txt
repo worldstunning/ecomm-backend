@@ -6,3 +6,4 @@ django-cors-headers
 Pillow
 stripe
 python-decouple
+django-cors-headers
